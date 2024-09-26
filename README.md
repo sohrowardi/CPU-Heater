@@ -1,0 +1,1 @@
+This script is like a caffeine shot for your CPU, making it count numbers non-stop until it’s sweating circuits! ☕💻
